@@ -1,5 +1,5 @@
 
-Live Dashboard : 
+Live Dashboard : https://www.novypro.com/project/cricket-analyzing-dashboard
 
 
 In the dynamic world of cricket, the performance of players plays a crucial role in shaping a team's success. This portfolio delves into a comprehensive analysis of individual player statistics across three key categories: Batsmen, Bowlers, and Finishers. Through meticulous examination, we aim to assist in the selection of the ultimate dream team of eleven players based on their respective strengths and contributions.
